@@ -36,51 +36,63 @@ This keyboarded and encoded edition of the
 
 #####Front#####
 
-1. HOM. II.
+1. TO
+THE READER.
+
+    _ HOM. II.
 
 #####Body#####
 
-1. HIS PRAYER
+1. THE
+PRAYER
+OF
+CHRIST
+VPON THE CROSSE
+for his enemies.
+
+    _ HIS PRAYER
 EXTENDED.
 
-1. MEDITATIONS
+    _ MEDITATIONS
 VPON THIS
 Prayer.
 
-1. THE PRINCIPALL
+    _ THE PRINCIPALL
 CIRCVMSTANCES OF
 This Prayer.
 
-1. OF THE SVBSTANCE
+    _ OF THE SVBSTANCE
 OF THIS
 Prayer.
 
-1. FATHER.
+    _ FATHER.
 
-1. FORGIVE
+    _ FORGIVE
 
-1. THEM.
+    _ THEM.
 
-1. FOR THEY KNOW
+    _ FOR THEY KNOW
 NOT WHAT THEY
 doe.
 
-1. THE FATHERS
+    _ THE FATHERS
 ANSVVERE.
 
-1. MEDITATIONS
+    _ MEDITATIONS
 vpon the same.
 
-1. IN WHOSE
+    _ IN WHOSE
 Presence this Prayer
 was made.
 
-1. A CONCLVDING
+    _ A CONCLVDING
 Thankesgiuing, Payer
 and oblation.
 
 #####Back#####
-Christs prayer vpon the Crosse for his enemies Father forgiue them, for they know not what they doe 
+LONDON,
+Printed by IOHN BILL.
+M.DC.XXIII.
 **Types of content**
 
   * There are 8 **verse** lines!
